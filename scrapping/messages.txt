@@ -1,0 +1,389 @@
+that coulda been bad
+Donât even try to refactor it.
+typo
+assorted changes
+hoo boy
+pgsql is being a pain
+Useful text
+Fixed unnecessary bug.
+FIX
+Commit committed....
+This branch is so dirty, even your mom can't clean it.
+ID:10T Error
+It works!
+Fucking submodule bull shit
+TODO: write meaningful commit message
+bugger
+TODD SUCKS
+bifurcation
+changes
+Fingers crossed!
+A long time ago, in a galaxy far far away...
+It was the best of times, it was the worst of times
+Apparently works-for-me is a crappy excuse.
+Shit code!
+My bad
+lots of changes after a lot of time
+include shit
+tunning
+Fucking egotistical bastard. adds expandtab to vimrc
+it is hump day _^_
+more debug... who overwrote!
+I'm hungry
+It's secret!
+Removed code.
+i think i fixed a bug...
+lolwhat?
+tl;dr
+REBELL, WE WENT OVER THIS. C++ IO SUCKS.
+lol digg
+Trust me, it's not badly written. It's just way above your head.
+rats
+LAST time, Jen, /dev/urandom IS NOT a variable name generator...
+Not one conflict, today was a good day.
+removed tests since i can't make them green
+Updated
+oops, forgot to add the file
+bara bra grejjor
+Does this work
+a few bits tried to escape, but we caught them
+...
+You can't see it, but I'm making a very angry face right now
+work in progress
+Committed some changes
+changed things...
+Yep, minimal was right on this one.
+extra debug for stuff module
+Reinventing the wheel. Again.
+gave up and used tables.
+MOAR BIFURCATION
+small is a real HTML tag, who knew.
+mergederp
+Fixed a bug cause Sarah said to
+really ignore ignored worsd
+unh
+Working on tests (haha)
+More ignore
+yolo push
+I am Spartacus
+well crap.
+Become a programmer, they said. It'll be fun, they said.
+Herping the derp
+Handled a particular error.
+this is how we generate our shit.
+various changes
+Things went wrong...
+QuickFix.
+Committing in accordance with the prophecy.
+magic, have no clue but it works
+move your body every every body
+derp, helper method rename
+done. going to bed now.
+fixed some minor stuff, might need some additional work.
+pgsql is more strict, increase the hackiness up to 11
+better ignores
+Fixed Bug
+this is my quickfix branch and i will use to do my quickfixes
+I expected something different.
+I must sleep... it's working... in just three hours...
+fixed errors in the previous commit
+Added translation.
+:(:(
+One more time, but with feeling.
+i dunno, maybe this works
+I'm just a grunt. Don't blame me for this awful PoS.
+Some shit.
+remove debug
+all good
+things occurred
+Whatever will be, will be 8{
+IEize
+Reset error count between rows. herpderp
+Shovelling coal into the server...
+woa!! this one was really HARD!
+I am even stupider than I thought
+Fix my stupidness
+I don't get paid enough for this shit.
+Michael broke the regex, lame
+omg what have I done?
+grmbl
+Does anyone read this? I'll be at the coffee shop accross the street.
+Make that it works in 90% of the cases.  3:30.
+Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
+Feed. You. Stuff. No time.
+Added missing file in previous commit
+I CAN HAZ PYTHON, I CAN HAZ INDENTS
+uhhhhhh
+Too lazy to write descriptive message
+No changes made
+One little whitespace gets its very own commit! Oh, life is so erratic!
+dirty hack, have a better idea ?
+pointless limitation
+I would rather be playing SC2.
+We should delete this crap before shipping.
+GIT :/
+Merge pull my finger request
+It's Working!
+eppic fail Corey
+MAKERBOT, WE WENT OVER THIS. EXPANDTAB.
+hey, what's that over there?!
+Testing in progress ;)
+Reticulating splines...
+Blaming regex.
+This is where it all begins...
+Another commit to keep my CAN streak going.
+hey, look over there!
+fixed the israeli-palestinian conflict
+It'd be nice if type errors caused the compiler to issue a type error
+did everything
+asdfasdfasdfasdfasdfasdfadsf
+FOR REAL.
+Fixed a little bug...
+Locating the required gigapixels to render...
+Todo!!!
+Fix hard-coded [object Object] string (thanks!)
+By works, I meant 'doesnt work'.  Works now..
+I must enjoy torturing myself
+I'M PUSHING.
+Still can't get this right...
+Don't push this commit
+needs more cow bell
+I CAN HAZ COMMENTZ.
+Commit committed
+I hate this fucking language.
+Lock S-foils in attack position
+it's friday
+pam anderson is going to love me.
+harharhar
+REALLY FUCKING FIXED
+I'm totally adding this to epic win. +300
+I cannot believe that it took this long to write a test for this.
+I should get a raise for this.
+SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
+Batman! (this commit has no parents)
+more ignored words
+Fix the fixes
+just trolling the repo
+bump to 0.0.3-dev:wq
+Somebody set up us the bomb.
+Now it's all microservices, I hope the fad persists.
+Trying to fake a conflict
+It's 2015; why are we using ColdFusion?!
+LAST time, Robert, /dev/urandom IS NOT a variable name generator...
+So my boss wanted this button ...
+yo recipes
+640K ought to be enough for anybody
+ALL SORTS OF THINGS
+arrgghh... damn this thing for not working.
+I know, I know, this is not how Iâm supposed to do it, but I can't think of something better.
+this should fix it
+fuckup.
+c&p fail
+herpderp
+Best commit ever
+??! what the ...
+No changes after this point.
+I don't believe it
+debug suff
+Arrrrgggg
+I don't know what these changes are supposed to accomplish but somebody told me to make them.
+[no message]
+sometimes you just herp the derp so hard it herpderps
+Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+ajax-loader hotness, oh yeah
+Revert "fuckup".
+To those I leave behind, good luck!
+less french words
+Either Hot Shit or Total Bollocks
+making this thing actually usable.
+forgot we're not using a smart language
+bla
+Revert "just testing, remember to revert"
+oops - thought I got that one.
+Crap. Tonight is raid night and I am already late.
+You should have trusted me.
+Another bug bites the dust
+Continued development...
+We'll figure it out on Monday
+somebody keeps erasing my changes.
+squash me
+Done, to whoever merges this, good luck.
+Who knows...
+Corrected mistakes
+Made it to compile...
+Fixed errors
+Nothing to see here, move along
+It's getting hard to keep up with the crap I've trashed
+s/import/include/
+whooooooooooooooooooooooooooo
+This solves it.
+Is there an achievement for this?
+added super-widget 2.0.
+added security.
+Well, it's doing something.
+Do things better, faster, stronger
+Same as last commit with changes
+JKTHESLACKER, WE WENT OVER THIS. EXPANDTAB.
+Push poorly written test can down the road another ten years
+I'm human
+Programming the flux capacitor
+SHIT ===> GOLD
+Now added delete for real
+Gross hack because minimal doesn't know how to code
+Not sure why
+(\ /)
+(O.o)
+(> <) Bunny approves these changes.
+stopped caring 16 commits ago
+commit
+This is supposed to crash
+ - Temporary commit.
+Fixed the build.
+I honestly wish I could remember what was going on here...
+Herpy dooves.
+de-misunderestimating
+copy and paste is not a design pattern
+Refactor factories, revisit visitors
+Something fixed
+stuff
+For the sake of my sanity, just ignore this...
+It worked for me...
+jobs... steve jobs
+Moved something to somewhere... goodnight...
+fix
+It compiles! Ship it!
+DEAL WITH IT
+fix some fucking errors
+better grepping
+Derpy hooves
+Derp, asset redirection in dev mode
+Version control is awful
+fixed mistaken bug
+PEBKAC
+I am Root. We are Root.
+should work now.
+LUKAS, WE WENT OVER THIS. C++ IO SUCKS.
+oops
+SOAP is a piece of shit
+and a comma
+minor changes
+more ignores
+Lyntor sucks
+happy monday _ bleh _
+pep8 fixer
+Whee, good night.
+add actual words
+I am sorry
+ï»¿One does not simply merge into master
+Use a real JS construct, WTF knows why this works in chromium.
+breathe, =, breathe
+WHO THE FUCK CAME UP WITH MAKE?
+I don't give a damn 'bout my reputation
+another big bag of changes
+This is a basic implementation that works.
+bug fix
+Hide those navs, boi!
+FUCKING ALEX
+FUCKING PULKIT
+Just stop reading these for a while, ok..
+LOL!
+FONDLED THE CODE
+It only compiles every 4 tries... good luck.
+FUCKING HTROYACK
+Who knows WTF?!
+if you're not using et, fuck off
+Fixing Andy's bug.
+Added a banner to the default admin page. Please have mercy on me =(
+Well the book was obviously wrong.
+put code that worked where the code that didn't used to be
+restored deleted entities just to be sure
+lol
+buenas those-things.
+I'll explain when you're older!
+Fixed a bug in NoteLineCount... not seriously...
+Herping the derp derp (silly scoping error)
+Obligatory placeholder commit message
+Is there an award for this?
+debugo
+Andy broke the regex, lame
+Here be Dragons
+See last commit
+For great justice.
+Completed with no bugs...
+I'm too old for this shit!
+(c) Microsoft 1988
+Last time I said it works? I was kidding.  Try this.
+herpderp (redux)
+I know what I am doing. Trust me.
+fixes
+FUCKING IGOR
+eppic fail Gabe
+I was told to leave it alone, but I have this thing called OCD, you see
+Yes, I was being sarcastic.
+ALI SUCKS
+first blush
+foo
+Removed test case since code didn't pass QA
+8==========D
+Spinning up the hamster...
+Herp derp I left the debug in there and forgot to reset errors.
+removed echo and die statements, lolz.
+wip
+serjoscha87 made me do it
+need another beer
+I'll explain this when I'm sober .. or revert it
+apparently i did somethingâ¦
+Gross hack because Rachel doesn't know how to code
+totally more readable
+ffs
+NICK SUCKS
+some brief changes
+LOGINX SUCKS
+To be honest, I do not quite remember everything I changed here today. But it is all good, I tell ya.
+Nitpicking about alphabetizing methods, minor OCD thing
+A fix I believe, not like I tested or anything
+Friday 5pm
+#GrammarNazi
+these confounded tests drive me nuts
+Does not work.
+Herpderp, shoulda check if it does really compile.
+I should have had a V8 this morning.
+I can't believe it took so long to fix this.
+I did it for the lulz!
+Test commit. Please ignore
+Gabe sucks
+Code was clean until manager requested to fuck it up
+Future self, please forgive me and don't hit me with the baseball bat again!
+LAST time, Jefferson, /dev/urandom IS NOT a variable name generator...
+syntax
+Fixing Tom's bug.
+Fixing Andy's bugs.
+fail
+what the hell happened here
+Derp search/replace fuckup
+Copy pasta fail. still had a instead of a
+Switched off unit test 6 because the build had to go out now and there was no time to fix it properly.
+just checking if git is working properly...
+Switched off unit test 10 because the build had to go out now and there was no time to fix it properly.
+Finished fondling.
+Issue #8 is now Issue #17
+Fuck it, YOLO!
+forgot to save that file
+Major fixup.
+stopped caring 21 commits ago
+Glue. Match sticks. Paper. Build script!
+I was wrong...
+This is the last time we let Kelan commit ascii porn in the comments.
+This is not the commit message you are looking for
+I don't know what the hell I was thinking.
+giggle.
+Fixing Lukasz's bugs.
+stopped caring 20 commits ago
+Give me a break, it's 2am.  But it works now.
+TDD: 1, Me: 0
+Copy-paste to fix previous copy-paste
+Fucking templates.
+project lead is allergic to changes...
+And a commit that I don't know the reason of...
+Switched off unit test 15 because the build had to go out now and there was no time to fix it properly.
+fixed conflicts (LOL merge -s ours; push -f)

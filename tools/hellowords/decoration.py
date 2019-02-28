@@ -30,7 +30,7 @@ def call_count(func):
     @functools.wraps(func)
     def inner(*args, **kwargs):
         inner.calls_count += 1
-        print "%s calls count %d" % (func.__name__, inner.calls_count)
+        print("%s calls count %d" % (func.__name__, inner.calls_count))
         return func(*args, **kwargs)
     inner.calls_count = 0
     return inner
@@ -109,12 +109,12 @@ def sleeping_func():
 
 @obsolete
 def obsolete_func():
-    print "ololo"
+    print("ololo")
 
 
 @pre_validate(lambda num: num is not None, "num should be digit")
 def print_num(num):
-    print num
+    print(num)
 
 
 def sum_two(one, two):
@@ -131,17 +131,17 @@ def return_none():
 # @functools.singledispatch # doesn't work in 2.7
 def print_type(obj):
     type_name = type(obj).__name__
-    print "Unknown type name" + type_name
+    print("Unknown type name" + type_name)
 
 
 # @print_type.register(int)  # doesn't work in 2.7
 def _(obj):
-    print "Type is int"
+    print("Type is int")
 
 
 # @print_type.register(str)  # doesn't work in 2.7
 def _(obj):
-    print "Type is string"
+    print("Type is string")
 
 
 if __name__ == '__main__':
@@ -153,8 +153,8 @@ if __name__ == '__main__':
     print_num(1)
     # print_num(None) # AssertionError: num should be digit
     # return_none() # AssertionError: Should not return None
-    print sum_one(33)
+    print(sum_one(33))
     print_type(22)
     print_type("aa")
     print_type(22.3)
-    print reduce(lambda acc, x: acc - x, [1, 2, 3, 4], 0)
+    print(functools.reduce(lambda acc, x: acc - x, [1, 2, 3, 4], 0))

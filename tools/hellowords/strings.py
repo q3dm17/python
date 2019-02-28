@@ -1,0 +1,55 @@
+# coding=utf-8
+import sys
+long_str = (
+"very" " " "long" " " " string" " joined" " " "into" "a single one" " assdasssssssssssssssssssssdasdasdaaaaa"
+"aaaaaaa"
+"bbbb")
+print(long_str)
+triple = """fooo
+bar"""
+print(triple)
+print("\twith tab")
+print(r"\t without tab")
+print("\xf1")
+s = "some string"
+print(list(s))
+print (s[0], type(s[0]))
+print(list(map(ord, u"english")))
+print(list(map(ord, u"я русский")))
+print(u"\U00000068")
+print(u"\N{DOMINO TILE HORIZONTAL-02-04}")
+# print chr(127025)
+ss = u"\N{LATIN SMALL LETTER SHARP S}"
+print(ss)
+print(ss.upper())
+print("some words".capitalize())
+print("some words".title())
+print("some words".upper())
+print("some WORDS".lower())
+print("some WORDS".swapcase())
+print("some words".ljust(22, "*"))
+print("some words".rjust(22, "*"))
+print("some words".center(22, "*"))
+print("[[>>foo>[".lstrip(">["))
+print("\t foo \t".strip())
+print("foo.bar.ta.r.gzip".rsplit(".", 1))
+translate_map = {"o": "a", "l": "z"}
+# a = "ololo".translate(maketrans("lo","za"))
+print("foo22".isalnum())
+print("{} and {}".format(1, 2))
+print(str("42"))
+print(repr("42"))
+print("{:~^16}".format("foo bar"))
+print("dec: {0:d}\thex: {0:x}\toct: {0:o}\tbin: {0:b}".format(42))
+print("{:+010.2f}".format(42.42))
+print("{0}\t{1}\t{0}".format(2, 1))
+print("{min}\t{sec}\t{min}".format(min=2, sec=1))
+print("({0[x]}, {0[y]})".format({"x": 22, "y": 33}))
+print(b"\00\42\ff")
+bytes = "some_string".encode("utf-8")
+print(bytes)
+print(bytes.decode("utf-8"))
+print(sys.getdefaultencoding())
+a = input("Enter something")
+print("Entered {}".format(a))
+sys.stderr.write("some errors")
